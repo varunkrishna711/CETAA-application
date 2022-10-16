@@ -1,0 +1,16 @@
+{
+  "title": "INSIGHTS",
+  "text": "Many great and famous personalities were brought up in this college",
+  "section": [
+    {
+      "title": "President's message",
+      "content": "College of Engineering Trivandrum, established in the year 1939 has completed 81 glorious years. Over these years, CET has been elevated to one of the top Engineering institutions of India. Currently CET offers 7 B. Tech programs, 27 different M. Tech specialisations, B. Arch, M. Arch, MCA, MBA and doctoral programs comprising of 4500 students, 300 faculty members and 250 nonteaching staff.",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "Secretary's message",
+      "content": "Every student is unique and has chosen a different career path for themselves, but not everyone receives the proper guidance to fulfil their dreams. As a result, we must equip our students both financially and academically so that they can be the change the world requires today. No one is more qualified to guide them than our alumni, who have overcome many obstacles to reach the highest positions in a variety of fields today. Hence, the College of Engineering Trivandrum Alumni Association (CETAA) is working round the clock to harness the true potential of our alumni around the world to brighten the lives of aspiring CETians.",
+      "icon": "notes.svg"
+    }
+  ]
+}
